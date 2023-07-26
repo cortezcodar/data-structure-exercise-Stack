@@ -17,7 +17,7 @@ Esta é uma implementação simples de uma estrutura de dados de pilha em JavaSc
 
 2. Clone este repositório para o seu sistema local usando o seguinte comando do Git:
 
-git clone https://github.com/cortezcodar/formulario.git
+git clone https://github.com/cortezcodar/data-structure-exercise-Stack.git
 
 ## Instância da Pilha
 
